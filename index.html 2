@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <section class="Top-Page"
+<title>Multi Gaming Room</title>
+<link rel="stylesheet" href="Style.css">
+    </head>
+
+    <body>
+ 
+ <h1>Bienvenue Sur Multi Gaming Room</h1>
+
+<h2>Prépar toi a t'amusé</h2>
+
+<h3>Creator Yoko</h3>
+
+<img src="https://tse4.mm.bing.net/th?id=OIP.uu-5FnBS4XDJo9rzlscCmAHaFv&pid=Api&P=0"
+ height="500" alt="Game"/>
+
+<p><strong>Nouveau:</strong> je vien d'arriver sur le jeux comment jouer ! et pour quoi persone répond a mes question ?
+    <br>
+   <strong> Multi Gaming room:</strong> bienvenue si ta besion d'aide on est la on a une comune qui est actif et helpeur  
+    <br>
+    <strong>Nouveau:</strong> MERCI !!!</p>
+
+    <a id="Css" href="https://discord.gg/38wku8MHjH">Voir Le Discord</a>
+
+<br><br>
+
+ <strong>Liste Des Jeux Que La Comunnauté Joue :</strong>
+
+<ul>
+    <li>Roblox/</li>
+    <li>Minecraft/</li>
+    <li>Fortnite/</li>
+    <li>Among us/</li>
+    <li>Scrap Méchanique</li> 
+</ul>
+
+
+</section>
+    </body>
+</html>
